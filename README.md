@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjballe%2FLightcore.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjballe%2FLightcore?ref=badge_shield)
+
 #Lightcore#
 
 Lightweight content delivery runtime for Sitecore, based on ASP.NET 5, fully async 
@@ -26,3 +28,6 @@ The two main reasons, operations and developer productivity:
 - You can use ASP.NET 5 [Middleware](https://docs.asp.net/en/latest/fundamentals/middleware.html "Middleware"), the [Lightcore request pipeline](https://github.com/pbering/Lightcore/blob/master/src/Lightcore/Kernel/Pipelines/Request/RequestPipeline.cs) is also implemented this way.
 - ... and everything else you can do in [ASP.NET 5](https://docs.asp.net "ASP.NET 5").
  
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjballe%2FLightcore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjballe%2FLightcore?ref=badge_large)
